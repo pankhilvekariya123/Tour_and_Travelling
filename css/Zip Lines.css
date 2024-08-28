@@ -1,0 +1,49 @@
+
+body 
+{
+  
+background-color: lightblue;
+  
+}
+
+{
+  font-size: 125%;
+}
+
+h1 {
+    font color: white;
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 100px;
+}
+h4 {
+  font-size: 100px;
+}
+h5 {
+  font-size: 100px;
+}
+h6 {
+  font-size: 100px;
+}
+
+
+p {
+  font-size: 40px;
+}
+
+
+.btn{
+font-size: 40px;
+    border: none;
+    padding: 14px 52px;
+    text-align: center;
+    color: white;
+    background: black;
+    border-radius: 80px;
+}

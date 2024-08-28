@@ -1,0 +1,54 @@
+
+body 
+{
+ 
+    color: rgb(0, 0, 0);
+  
+
+    
+  }
+  
+}
+
+{
+  font-size: 105%;
+}
+
+h1 {
+  background-color: rgba(255, 0, 0, 0.3);
+  text-shadow: 2px 2px 5px rgb(85, 0, 255);
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 100px;
+}
+h4 {
+  font-size: 100px;
+}
+h5 {
+  font-size: 100px;
+}
+h6 {
+  font-size: 100px;
+}
+
+
+p {
+  font-size: 40px;
+}
+
+
+.btn{
+font-size: 40px;
+    border: none;
+    padding: 14px 52px;
+    text-align: center;
+    color: white;
+    background: black;
+    border-radius: 80px;
+}
